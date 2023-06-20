@@ -1,1 +1,22 @@
-Hoje gravar todas as aulas!
+{
+  "todos": [
+    {
+      "id": "f0b18bf4-4678-4333-8b93-a0aa7a52e695",
+      "date": "2023-06-20T03:40:29.374Z",
+      "content": "Primeira To DO",
+      "done": false
+    },
+    {
+      "id": "c4400381-eafb-464b-a416-f8b5434a80e8",
+      "date": "2023-06-20T03:40:29.374Z",
+      "content": "Segunda TODO Atualizada",
+      "done": false
+    },
+    {
+      "id": "396b3b68-0184-4a56-bf82-7d162fd0bf57",
+      "date": "2023-06-20T03:40:29.375Z",
+      "content": "Segunda To DO",
+      "done": false
+    }
+  ]
+}
